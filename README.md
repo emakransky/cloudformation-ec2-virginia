@@ -1,1 +1,1 @@
-"# cloudformation-ec2-virginia" 
+Integration for Qualys instead of using aws inspection to create golden images. 
